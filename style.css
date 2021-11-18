@@ -456,6 +456,6 @@ p {
 }
 
 .footer .box-container .box a:hover {
-  color: var(--orange);
+  color: orange;
   text-decoration: underline;
 }
