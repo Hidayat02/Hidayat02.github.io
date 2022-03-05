@@ -459,3 +459,7 @@ p {
   color: orange;
   text-decoration: underline;
 }
+
+@media (min-width:600px) {
+  
+}
